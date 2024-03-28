@@ -10,3 +10,5 @@ This project is an artificial neural network program using TensorFlow. This prog
 - The program was carried out on Google Colaboratory.
 - The accuracy of the model is at least 85%.
 - Can predict images uploaded to Colab.
+
+![Screenshot 2024-03-28 153422](https://github.com/rismaamaliyah/Image-Classification/assets/90541443/ded09d06-f1a3-4a96-8c5b-210c647152ed)
