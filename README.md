@@ -11,4 +11,5 @@ This project is an artificial neural network program using TensorFlow. This prog
 - The accuracy of the model is at least 85%.
 - Can predict images uploaded to Colab.
 
-![Screenshot 2024-03-28 153422](https://github.com/rismaamaliyah/Image-Classification/assets/90541443/ded09d06-f1a3-4a96-8c5b-210c647152ed)
+And here is feedback from the project I have worked on.
+![Screenshot 2024-03-28 153434](https://github.com/rismaamaliyah/Image-Classification/assets/90541443/c3b3e302-9fb4-4c5f-a406-74e973731f6d)
